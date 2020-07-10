@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/willy/ws/src/ecto/include;/usr/include;/usr/include/python2.7")

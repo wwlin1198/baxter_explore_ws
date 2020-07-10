@@ -1,0 +1,8 @@
+prefix=/home/willy/ws/install
+
+Name: ecto_ros
+Description: Description of ecto_ros
+Version: 0.4.8
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

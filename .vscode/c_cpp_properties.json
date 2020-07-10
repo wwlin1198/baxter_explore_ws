@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/willy/ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/willy/ws/src/baxter_simulator/baxter_sim_controllers/include/**",
+                "/home/willy/ws/src/baxter_simulator/baxter_sim_hardware/include/**",
+                "/home/willy/ws/src/baxter_simulator/baxter_sim_io/include/**",
+                "/home/willy/ws/src/baxter_simulator/baxter_sim_kinematics/include/**",
+                "/home/willy/ws/src/ecto/include/**",
+                "/home/willy/ws/src/ecto_image_pipeline/include/**",
+                "/home/willy/ws/src/ecto_pcl/include/**",
+                "/home/willy/ws/src/ecto_ros/include/**",
+                "/home/willy/ws/src/ork_core/include/**",
+                "/home/willy/ws/src/ork_renderer/include/**",
+                "/home/willy/ws/src/ork_ros/include/**",
+                "/home/willy/ws/src/ork_tabletop/include/**",
+                "/home/willy/ws/src/ork_transparent_objects/include/**",
+                "/home/willy/ws/src/opencv_candidate/include/**",
+                "/home/willy/ws/src/geometry2/tf2/include/**",
+                "/home/willy/ws/src/geometry2/tf2_bullet/include/**",
+                "/home/willy/ws/src/geometry2/tf2_eigen/include/**",
+                "/home/willy/ws/src/geometry2/tf2_geometry_msgs/include/**",
+                "/home/willy/ws/src/geometry2/tf2_kdl/include/**",
+                "/home/willy/ws/src/geometry2/tf2_msgs/include/**",
+                "/home/willy/ws/src/geometry2/tf2_ros/include/**",
+                "/home/willy/ws/src/geometry2/tf2_sensor_msgs/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

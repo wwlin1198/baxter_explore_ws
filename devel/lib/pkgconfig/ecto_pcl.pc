@@ -1,0 +1,8 @@
+prefix=/home/willy/ws/devel
+
+Name: ecto_pcl
+Description: Description of ecto_pcl
+Version: 0.4.5
+Cflags: -I/home/willy/ws/src/ecto_pcl/include
+Libs: -L${prefix}/lib 
+Requires: pcl_conversions sensor_msgs
