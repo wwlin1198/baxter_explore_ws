@@ -209,6 +209,7 @@ runDetectionOnDataset_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libtiff.so
@@ -247,6 +248,7 @@ runDetectionOnDataset_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/runDetectionOnDataset: /usr/lib/x86_64-linux-gnu/libtiff.so

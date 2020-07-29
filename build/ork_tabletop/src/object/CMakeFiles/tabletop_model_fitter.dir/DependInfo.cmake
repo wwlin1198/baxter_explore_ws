@@ -45,7 +45,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   "/usr/include/python2.7"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/willy/ws/src/ork_tabletop/src/object/assimp/code/3DSConverter.cpp" "/home/willy/ws/build/ork_tabletop/src/object/CMakeFiles/tabletop_model_fitter.dir/assimp/code/3DSConverter.cpp.o"
@@ -224,7 +223,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   "/usr/include/python2.7"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   )
 
 # Targets to which this target links.

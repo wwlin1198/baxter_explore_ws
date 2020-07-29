@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC   -std=c++11
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"baxter_ikfast_left_arm_plugin\" -Dbaxter_left_arm_moveit_ikfast_plugin_EXPORTS
 
-CXX_INCLUDES = -I/home/willy/ws/src/moveit_robots/baxter/baxter_ikfast_left_arm_plugin/include -I/home/willy/ws/devel/include -I/home/willy/ws/src/geometry2/tf2_ros/include -I/home/willy/ws/src/geometry2/tf2/include -I/home/willy/ws/src/geometry2/tf2_msgs/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/orocos_kdl/../../include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/home/willy/ros_ws/devel/include 
+CXX_INCLUDES = -I/home/willy/ws/src/moveit_robots/baxter/baxter_ikfast_left_arm_plugin/include -I/home/willy/ws/devel/include -I/home/willy/ws/src/geometry2/tf2_ros/include -I/home/willy/ws/src/geometry2/tf2/include -I/home/willy/ws/src/geometry2/tf2_msgs/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/orocos_kdl/../../include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 
 

@@ -35,7 +35,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/include"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/python2.7"
-  "/home/willy/ros_ws/devel/include"
   "/usr/include/eigen3"
   "/usr/include/OGRE/Overlay"
   "/usr/include/OGRE"

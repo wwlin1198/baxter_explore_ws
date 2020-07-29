@@ -25,7 +25,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/python2.7"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   "/home/willy/ws/src/ork_ros/include"
   "/opt/ros/kinetic/include/opencv-3.3.1-dev"
   "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"

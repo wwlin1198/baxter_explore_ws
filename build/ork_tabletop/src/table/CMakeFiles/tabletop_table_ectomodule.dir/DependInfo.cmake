@@ -35,7 +35,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   "/usr/include/python2.7"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   )
 
 # Targets to which this target links.

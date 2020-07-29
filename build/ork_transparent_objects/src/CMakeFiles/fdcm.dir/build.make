@@ -262,6 +262,7 @@ fdcm_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/libfdcm.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libz.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libpng.so
@@ -309,6 +310,7 @@ fdcm_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libqhull.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/libfdcm.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libvtkImagingStencil-6.2.so.6.2.0
 /home/willy/ws/devel/lib/libfdcm.so: /usr/lib/x86_64-linux-gnu/libz.so

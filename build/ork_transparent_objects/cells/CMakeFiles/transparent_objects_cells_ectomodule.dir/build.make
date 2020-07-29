@@ -214,6 +214,7 @@ transparent_objects_cells_ectomodule_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libz.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpng.so
@@ -261,6 +262,7 @@ transparent_objects_cells_ectomodule_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libqhull.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libz.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libjpeg.so
@@ -507,6 +509,7 @@ transparent_objects_cells_ectomodule_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libtiff.so
@@ -536,6 +539,7 @@ transparent_objects_cells_ectomodule_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/python2.7/dist-packages/object_recognition_transparent_objects/transparent_objects_cells.so: /usr/lib/x86_64-linux-gnu/libtiff.so

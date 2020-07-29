@@ -1,4 +1,4 @@
-#! /usr/bin/env python2.7
+#! /usr/bin/env python
 import rospy
 import sys
 import baxter_interface as baxter
@@ -44,11 +44,11 @@ class Pick_and_shake:
 		#and then to transform camera rf to robot's rf
 		#goal_pose is the final pose of the marker wrt the robot's rf
 
-		tf_buffer = tf2_ros.Buffer(rospy.Duration(100.0))
+		tf_buffer = tf2_ros.Buffer(rospy.Duration(200.0))
 		tf_listener = tf2_ros.TransformListener(tf_buffer)
 
-		transform = tf_buffer.lookup_transform('base', 'camera_rgb_optical_frame',rospy.Time(0),
-			rospy.Duration(3.0))
+		transform = tf_buffer.lookup_transform('base', 'camera_depth_optical_frame',rospy.Time(2.0),
+			rospy.Duration(5.0))
 		print (transform) 
 		print ("----------------") 
 		rot = transform.transform.rotation

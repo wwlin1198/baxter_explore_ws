@@ -1730,19 +1730,7 @@ opencv2/core/cuda.hpp
 opencv2/features2d.hpp
 /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/opencv2/features2d.hpp
 
-/usr/include/ni/Linux-AArch64/XnPlatformLinux-AArch64.h
-../Linux-x86/XnPlatformLinux-x86.h
-/usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
-
 /usr/include/ni/Linux-Arm/XnPlatformLinux-Arm.h
-../Linux-x86/XnPlatformLinux-x86.h
-/usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
-
-/usr/include/ni/Linux-Mips/XnPlatformLinux-Mips.h
-../Linux-x86/XnPlatformLinux-x86.h
-/usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
-
-/usr/include/ni/Linux-Powerpc/XnPlatformLinux-Powerpc.h
 ../Linux-x86/XnPlatformLinux-x86.h
 /usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
 
@@ -1877,12 +1865,6 @@ Linux-x86/XnPlatformLinux-x86.h
 /usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
 Linux-Arm/XnPlatformLinux-Arm.h
 /usr/include/ni/Linux-Arm/XnPlatformLinux-Arm.h
-Linux-AArch64/XnPlatformLinux-AArch64.h
-/usr/include/ni/Linux-AArch64/XnPlatformLinux-AArch64.h
-Linux-Powerpc/XnPlatformLinux-Powerpc.h
-/usr/include/ni/Linux-Powerpc/XnPlatformLinux-Powerpc.h
-Linux-Mips/XnPlatformLinux-Mips.h
-/usr/include/ni/Linux-Mips/XnPlatformLinux-Mips.h
 ARC/XnPlatformARC.h
 /usr/include/ni/ARC/XnPlatformARC.h
 MacOSX/XnPlatformMacOSX.h

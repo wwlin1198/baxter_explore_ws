@@ -24,10 +24,7 @@ ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /home/wil
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /home/willy/ws/src/ecto/include/ecto/util.hpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /home/willy/ws/src/ecto_openni/cells/Capture.cpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /home/willy/ws/src/ecto_openni/cells/enums.hpp
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-AArch64/XnPlatformLinux-AArch64.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-Arm/XnPlatformLinux-Arm.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-Mips/XnPlatformLinux-Mips.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-Powerpc/XnPlatformLinux-Powerpc.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-x86/XnOSLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/Capture.cpp.o: /usr/include/ni/MacOSX/XnPlatformMacOSX.h
@@ -784,10 +781,7 @@ ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /home/will
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /home/willy/ws/src/ecto/include/ecto/util.hpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /home/willy/ws/src/ecto_openni/cells/enums.hpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /home/willy/ws/src/ecto_openni/cells/module.cpp
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-AArch64/XnPlatformLinux-AArch64.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-Arm/XnPlatformLinux-Arm.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-Mips/XnPlatformLinux-Mips.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-Powerpc/XnPlatformLinux-Powerpc.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-x86/XnOSLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/module.cpp.o: /usr/include/ni/MacOSX/XnPlatformMacOSX.h
@@ -1034,10 +1028,7 @@ ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /op
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d.hpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/cuda.hpp
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/nonfree.hpp
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-AArch64/XnPlatformLinux-AArch64.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-Arm/XnPlatformLinux-Arm.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-Mips/XnPlatformLinux-Mips.h
-ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-Powerpc/XnPlatformLinux-Powerpc.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-x86/XnOSLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/Linux-x86/XnPlatformLinux-x86.h
 ecto_openni/cells/CMakeFiles/ecto_openni_ectomodule.dir/openni_driver.cpp.o: /usr/include/ni/MacOSX/XnPlatformMacOSX.h

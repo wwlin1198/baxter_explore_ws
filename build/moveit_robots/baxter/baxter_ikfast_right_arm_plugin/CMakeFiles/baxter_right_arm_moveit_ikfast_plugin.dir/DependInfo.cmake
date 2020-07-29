@@ -26,7 +26,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/share/orocos_kdl/../../include"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   )
 
 # Targets to which this target links.

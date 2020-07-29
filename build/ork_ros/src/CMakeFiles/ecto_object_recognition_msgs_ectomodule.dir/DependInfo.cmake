@@ -31,7 +31,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/python2.7"
   "/usr/include/eigen3"
-  "/home/willy/ros_ws/devel/include"
   "/home/willy/ws/src/ork_ros/include"
   "gen/cpp/object_recognition_msgs"
   )

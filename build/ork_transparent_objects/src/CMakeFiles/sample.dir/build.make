@@ -108,6 +108,7 @@ sample_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libz.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpng.so
@@ -155,6 +156,7 @@ sample_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libqhull.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libz.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libjpeg.so
@@ -296,6 +298,7 @@ sample_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libtiff.so
@@ -334,6 +337,7 @@ sample_EXTERNAL_OBJECTS =
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_octree.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpcl_search.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI.so
+/home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/libOpenNI2.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libjpeg.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libpng.so
 /home/willy/ws/devel/lib/object_recognition_transparent_objects/sample: /usr/lib/x86_64-linux-gnu/libtiff.so
